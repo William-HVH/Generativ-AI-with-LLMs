@@ -1,0 +1,41 @@
+# Core ML/DL frameworks
+torch>=2.6.0
+transformers>=4.48.0
+datasets>=2.12.0
+
+# Jupyter environment
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+notebook>=7.0.0
+
+# Parameter-efficient fine-tuning
+peft>=0.4.0
+
+# Training and optimization
+accelerate>=0.20.0
+bitsandbytes>=0.40.0
+
+# Reinforcement Learning
+trl>=0.4.0
+
+# Evaluation and metrics
+evaluate>=0.4.0
+rouge-score>=0.1.2
+nltk>=3.8.0
+
+# Data processing and utilities
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# API and deployment
+fastapi>=0.109.1
+uvicorn>=0.22.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
